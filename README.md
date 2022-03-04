@@ -1,5 +1,6 @@
 # Fuzzy-Logic
 Sistem Pengendalian dan Monitoring Suhu berbasis Logika Fuzzy
+### Hardware : NodeMCU ESP 8266
 ### Documentation : https://drive.google.com/drive/folders/1Co5NK7Y83euKWahstkngDjLVTxyoCV75?usp=sharing
 ### Anggota :
 1. Muhammad Raffi (1910631170032)
